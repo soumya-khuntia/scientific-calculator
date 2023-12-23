@@ -70,7 +70,9 @@ function calculatePower() {
         if (!isNaN(exponent)) {
             result = Math.pow(base, exponent);
             user.value = result; 
-        } else {
+            base = null; 
+            result = null;
+          } else {
             // If exponent is not a valid number, set base to null
             base = null;
             user.value = 'Error';
