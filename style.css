@@ -95,6 +95,6 @@ button.back {
 @media (max-width: 376px) {
     #calculator{
         width: 305px;
-        padding: 10px;
+        padding: 7px;
     }
 }
