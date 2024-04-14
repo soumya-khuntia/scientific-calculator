@@ -1,4 +1,5 @@
-# Scientific Calculator
+# Scientific Calculator 
+- For check out click here :- [Scientific_Calculator](https://soumya-khuntia.github.io/scientific-calculator) .
 
 This is a simple scientific calculator web application created using HTML, CSS, and JavaScript.
 
