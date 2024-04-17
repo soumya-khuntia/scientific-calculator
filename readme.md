@@ -49,3 +49,8 @@ Some ways the calculator could be improved in the future:
 
 Overall, this project gave good practice for web development using core HTML, CSS and JavaScript skills. Building a calculator covers many programming concepts like functions, DOM manipulation, handling user input and more.
 
+## Preview
+
+![Calculator image](/calculator.png)
+
+## <center>HAVE A GOOD DAY</center>
